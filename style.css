@@ -53,3 +53,10 @@
   padding: 21px 32px 21px 32px;
   font-weight: 500;
 }
+#banner {
+  height: 764px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
