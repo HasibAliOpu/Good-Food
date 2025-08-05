@@ -46,6 +46,10 @@
   letter-spacing: 0%;
 }
 .btn {
-  border-radius: 8px;
+  color: rgb(255, 255, 255);
   background: rgb(82, 195, 3);
+  border: none;
+  border-radius: 8px;
+  padding: 21px 32px 21px 32px;
+  font-weight: 500;
 }
